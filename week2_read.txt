@@ -1,0 +1,32 @@
+Week 2: Making Decisions & Repeating Tasks in Python
+
+Theory Concepts: If-else statements: Teaching your program to make
+simple decisions Comparison operators: equals, not equals, greater than,
+less than For loops: Repeating tasks multiple times automatically While
+loops: Repeating until a condition is met Functions: Creating reusable
+blocks of code Basic error handling: What to do when things go wrong
+
+Hands-On Practice: Create a program that gives different messages based
+on time of day Build a number guessing game using if-else statements Use
+for loop to print numbers from 1 to 100 Create a function that
+calculates area of rectangle Make a simple calculator that can add,
+subtract, multiply, divide Practice with real-life scenarios: grading
+system, age categories
+
+Project: Student Grade Calculator Build a program that takes student
+marks and returns grade (A, B, C, etc.) with encouraging messages
+
+Technical Requirements: Use if-elif-else statements for grading logic
+Add input validation (marks 0-100 only) Create at least one function Add
+encouraging messages for each grade Use while loop to handle invalid
+inputs
+
+Step-by-Step Guide: Day 1: Understand Grading System - Create grade
+rules document Day 2: Create Input System - Get student name and marks
+Day 3: Add Grading Logic - Implement if-elif-else conditions Day 4: Add
+Validation and Loop - Check marks range, handle invalid inputs Day 5:
+Create Final Program - Combine all parts, add functions, test thoroughly
+
+Sample Output: Enter student name: Priya Enter marks (0-100): 85
+
+RESULT FOR PRIYA: Marks: 85/100 Grade: B Message: Very Good! Keep it up!
